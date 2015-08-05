@@ -127,3 +127,12 @@ header nav {
 .table-bordered > tbody > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > thead > tr > th {
     border: 1px solid #fff;
 }
+.golden>div {padding: 10px;}
+.golden>div div:first-child{height:167px;}
+.golden .img-responsive{height: 100%;}
+dl {margin-bottom: 5px;}
+
+@media (min-width: 768px){
+	.dl-horizontal dd {margin-left: 120px;}
+	.dl-horizontal dt {width: 105px;}
+}

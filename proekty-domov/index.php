@@ -68,4 +68,15 @@
 </div>
 <p>&nbsp;</p>
 
+	<p class="h2">Типовые проекты GoldenHome</p>
+<div class="row golden">
+<?php 
+$dir = scandir('./');
+if (false !== $dir) {
+    $dirs = preg_grep('/proekt-\w+/', $dir);
+	foreach($dirs as $row) { 
+		include($row."/block.php");
+}}
+?>
+</div>
 <?php include("../blocks/footer.php");?>

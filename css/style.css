@@ -3,14 +3,9 @@ html, body {
 	color: #334651;
 	background-color: #eee;
 }
-body {
-	padding-top: 30px;
-}
+body {padding-top: 30px;}
 /*header*/
-header{
-
-	background-color:#fff;
-}
+header{background-color:#fff;}
 header #logo {
 	text-transform: uppercase;
 	color: #000;
@@ -25,52 +20,28 @@ header #logo hr{
 	border: 0;
 	border-top: 2px solid #FFCC00;
 }
-header #logo p {
-	margin: 0;
-}
-header #logo small{
-	font-size: 11px;
-}
-header .nav>li>a {
-  padding: 10px 13px;
-}
-.navbar-brand{
-	min-height:110px;
-}
-.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus {
-	background-color:#fff;
-}
-
+header #logo p {margin: 0;}
+header #logo small{font-size: 11px;}
+header .nav>li>a {padding: 10px 13px;}
+.navbar-brand{min-height:110px;}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus {background-color:#fff;}
 .row{
 	margin-right: 0px;
 	margin-left: 0px;
 	background-color:#fff;
 }
-header nav {
-	margin-top: 20px;
-	text-transform: uppercase;
-}
+header nav {margin-top: 20px;text-transform: uppercase;}
 .navbar-default{
 	background-color: #fff;
 	border: 0px;
 	border-radius: 0px;
 }
-.nav {
-	padding-top: 10px;
-}
+.nav {padding-top: 10px;}
 /*carousel*/
-#CarouselSlider {
-	margin-bottom: 30px;
-}
-.carousel-indicators {
-	bottom: -40px;
-}
-.carousel-indicators li{
-	border: 1px solid #FCB914;
-}
-.carousel-indicators .active {
-	background-color: #FCB914;
-}
+#CarouselSlider {margin-bottom: 30px;}
+.carousel-indicators {bottom: -40px;}
+.carousel-indicators li {border: 1px solid #FCB914;}
+.carousel-indicators .active {background-color: #FCB914;}
 .carousel-inner .text {
   text-transform: uppercase;
   color: #ea0;
@@ -87,27 +58,13 @@ header nav {
 .carousel-inner a{text-decoration:none;padding: 10px;}
 .carousel-inner a:hover,.carousel-inner a:focus{text-decoration:none;}
 /**/
-.uppercase{
-	text-transform: uppercase;
-}
-.color-fon{
-	background-color: #eee;
-}
+.uppercase{text-transform: uppercase;}
+.color-fon{background-color: #eee;}
 .img>div{padding:0px;}
-.fancybox, .intro {
-  margin: 0;
-  padding: 5px;
-}
-.padding-5{
-	padding: 5px;
-}
-.padding-5 p{
-	margin: 0px;
-	display:inline-table;
-}
-.img-responsive {
-	display:inline;
-}
+.fancybox, .intro {margin: 0;padding: 5px;}
+.padding-5{padding: 5px;}
+.padding-5 p{margin: 0px;display:inline-table;}
+.img-responsive {display:inline;}
 .tm_a_span {
 	font: normal 11px/15px Tahoma;
 	color: #c0c0c0;
@@ -115,18 +72,10 @@ header nav {
 	text-align: center;
 	text-transform: capitalize;
 }
-.tm_a_bord { 
-	text-transform: uppercase;
-}
-.text-center {
-	text-align: center;
-}
-.table-striped > tbody > tr:nth-of-type(2n+1) {
-    background-color: #E6E7E8;
-}
-.table-bordered > tbody > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > thead > tr > th {
-    border: 1px solid #fff;
-}
+.tm_a_bord {text-transform: uppercase;}
+.text-center {text-align: center;}
+.table-striped > tbody > tr:nth-of-type(2n+1) {background-color: #E6E7E8;}
+.table-bordered > tbody > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > thead > tr > th {border: 1px solid #fff;}
 .golden>div {padding: 10px;}
 .golden>div div:first-child{height:167px;}
 .golden .img-responsive{height: 100%;}

@@ -10,7 +10,7 @@
 		<div class="row">
 			<div class="col-md-6"><a href="<?php echo HTTP_SERVER;?>price-ytong/">Прайс-лист</a>
 			</div>
-			<div class="col-md-6"><a href="<?php echo HTTP_SERVER;?>vidy-gazobetonnyh-blokov">Описание товара</a>
+			<div class="col-md-6"><a href="<?php echo HTTP_SERVER;?>vidy-gazobetonnyh-blokov/">Описание товара</a>
 			</div>
 		</div>
 		<h4>Спецпредложения</h4>

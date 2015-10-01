@@ -31,7 +31,7 @@
     </tr>
     <tr>
         <td  colspan="4">Цена за 1 м<sup>3</sup>, руб. с доставкой в Иваново</td>
-        <td  colspan="2">3 650</td>
+        <td  colspan="2">3 500</td>
     </tr>
 <?php foreach($price3 as $row){ ?>
     <tr>
